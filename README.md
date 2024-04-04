@@ -1,5 +1,4 @@
-# GagarinOS
 
-### Project main repository below:
+# Project main repository below:
 
-# --> https://codeberg.org/SerjeiMikailov/gagarinOS
+### --> https://codeberg.org/SerjeiMikailov/gagarinOS
