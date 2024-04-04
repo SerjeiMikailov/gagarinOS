@@ -1,2 +1,5 @@
-# gagarinOS
-ia32 Operating System
+# GagarinOS
+
+### Project main repository below:
+
+# --> https://codeberg.org/SerjeiMikailov/gagarinOS
