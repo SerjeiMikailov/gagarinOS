@@ -1,4 +1,4 @@
 
 # Project main repository below:
 
-### --> https://codeberg.org/SerjeiMikailov/gagarinOS
+### --> https://git.sr.ht/~serjei_mikailov/gagarinOS
